@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Integrando Python com SQLite e MongoDB](https://web.dio.me/lab/integrando-python-com-sqlite-e-mongodb/learning/eab2d584-6c76-4597-a550-e2ca95ef4d56)[Entendendo o desafio](https://web.dio.me/lab/integrando-python-com-sqlite-e-mongodb/learning/ab38bd11-2011-48ad-a0f9-747099ff6aec)
+- [Integrando Python com SQLite e MongoDB](https://web.dio.me/lab/integrando-python-com-sqlite-e-mongodb/learning/eab2d584-6c76-4597-a550-e2ca95ef4d56)
+- [Entendendo o desafio](https://web.dio.me/lab/integrando-python-com-sqlite-e-mongodb/learning/ab38bd11-2011-48ad-a0f9-747099ff6aec)
 
 
 
